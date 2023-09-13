@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 680px;
+  background-color: rgb(107, 107, 237);
+  padding: 60px;
+  color: white;
+  margin-left: -30px;
+}
+.tb {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: repeat(3, 300px);
+  grid-auto-rows: minmax(250px, auto);
+  grid-row-gap: 30px;
+  padding-top: 80px;
+}
+.jb {
+  display: flex;
+
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: white;
+  width: 280px;
+  height: 200px;
+  border-radius: 10px;
+  padding-left: 20px;
+
+  line-height: 30px;
+}
+.body {
+  background-color: whitesmoke;
+}
+.text {
+  color: grey;
+}
+.loc {
+  color: rgb(107, 107, 237);
+  font-weight: 500;
+  margin-top: 30px;
+}
+
+.but {
+  background-color: rgb(107, 107, 237);
+  width: 150px;
+  height: 50px;
+  margin-bottom: 50px;
+  color: white;
+  font-weight: 700;
+  border-radius: 10px;
+  font-size: 15px;
+
+  border: none;
+}
+
+.img {
+  margin-top: -60px;
+  margin-bottom: 10px;
+  background-color: rgb(23, 27, 30);
+  border-radius: 5px;
+}
