@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/devjobs/static/css/main.cf61fc76.css",
+    "main.js": "/devjobs/static/js/main.e20ef6f9.js",
+    "static/js/787.4d524d0d.chunk.js": "/devjobs/static/js/787.4d524d0d.chunk.js",
+    "static/media/scoot.svg": "/devjobs/static/media/scoot.345a4bfd15e6f589d5688ea93b70ca8a.svg",
+    "static/media/pomodoro.svg": "/devjobs/static/media/pomodoro.a786dc9a9ad4e2ead3b242885907942b.svg",
+    "static/media/logo.svg": "/devjobs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/vector.svg": "/devjobs/static/media/vector.d9c0112ac6f7293a78de79225060b1af.svg",
+    "static/media/crowdfund.svg": "/devjobs/static/media/crowdfund.1aee1724815801f6f4193a8678c67bbd.svg",
+    "static/media/pod.svg": "/devjobs/static/media/pod.3c73e3778043bb439ba8bf094ffa7e7d.svg",
+    "static/media/coffeeroasters.svg": "/devjobs/static/media/coffeeroasters.70ce77dac433114a8f885c8bb1fb95cf.svg",
+    "static/media/typemaster.svg": "/devjobs/static/media/typemaster.a31ba9597141de8f1fa93c30c6001397.svg",
+    "index.html": "/devjobs/index.html",
+    "static/media/creative.svg": "/devjobs/static/media/creative.af94119f448ec566344593a82f61c743.svg",
+    "static/media/mastercraft.svg": "/devjobs/static/media/mastercraft.a98383d02483419b73487b31457b7e69.svg",
+    "static/media/blogr.svg": "/devjobs/static/media/blogr.68f4bc4bb85b4aa267d0e1cb06775dc8.svg",
+    "static/media/maker.svg": "/devjobs/static/media/maker.b6f34b7909e60ded181acb3108eb39c3.svg",
+    "static/media/officelite.svg": "/devjobs/static/media/officelite.34773de614b80abc0b9a05e4e0329ff3.svg",
+    "main.cf61fc76.css.map": "/devjobs/static/css/main.cf61fc76.css.map",
+    "main.e20ef6f9.js.map": "/devjobs/static/js/main.e20ef6f9.js.map",
+    "787.4d524d0d.chunk.js.map": "/devjobs/static/js/787.4d524d0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf61fc76.css",
+    "static/js/main.e20ef6f9.js"
+  ]
+}
